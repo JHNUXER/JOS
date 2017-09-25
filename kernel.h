@@ -1,0 +1,2 @@
+#IFNDEF __JOS
+#DEF __JOS;
